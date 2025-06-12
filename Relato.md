@@ -27,7 +27,7 @@ Foram praticados os comandos essenciais de navegação no sistema de arquivos, c
 ### 2.3. Manipulação de Arquivos
 Nesta etapa, foram utilizados os comandos `touch`, `mv`, `cp` e `rm` para criar, renomear, copiar um arquivo entre diretórios distintos e, por fim, remover o arquivo original, validando a persistência da cópia de segurança.
 
-![Criação, cópia e remoção de arquivos](imagens/print-03-manipulacao.png)
+![Criação, cópia e remoção de arquivos
 
 ### 2.4. Gerenciamento de Pacotes com DNF
 O gerenciador de pacotes `dnf` do Fedora foi utilizado para atualizar o sistema e para instalar e posteriormente remover um pacote de software (o editor de texto `nano`).
