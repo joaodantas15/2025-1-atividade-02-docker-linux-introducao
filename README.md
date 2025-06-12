@@ -8,6 +8,7 @@
 - disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
 - Aluno: João Pedro Dantas Magalhães
+- Observação: não ocnsegui instalar o docker na minha máquia, todas as atividades foram realizadas no PC do meu irmão, por isso o nome Raúl no usuário. 
 
 
 ## Sumário
